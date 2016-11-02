@@ -1,4 +1,4 @@
-###qNode v 0.0.1
+###qNode v 0.1.0
 
 This script quickly initializes a webserver with the following frameworks:
 - git
