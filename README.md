@@ -15,3 +15,8 @@ This script quickly initializes a webserver with the following frameworks:
 
 Simply run `qNode.sh` in the parent directory of the future project, and follow
 the onscreen instructions.`
+
+
+##License
+
+Apache 2.0, see LICENSE
